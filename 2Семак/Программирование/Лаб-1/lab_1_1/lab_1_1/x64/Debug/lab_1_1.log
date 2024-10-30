@@ -1,0 +1,4 @@
+﻿  lab_1_1.cpp
+C:\Users\mrlol\OneDrive\Рабочий стол\Чикчикпуки\ВУЗ\Программирование\Лаб-1\lab_1_1\lab_1_1.cpp(6,13): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\mrlol\OneDrive\Рабочий стол\Чикчикпуки\ВУЗ\Программирование\Лаб-1\lab_1_1\lab_1_1.cpp(7,13): warning C4305: инициализация: усечение из "double" в "float"
+  lab_1_1.vcxproj -> C:\Users\mrlol\OneDrive\Рабочий стол\Чикчикпуки\ВУЗ\Программирование\Лаб-1\lab_1_1\x64\Debug\lab_1_1.exe

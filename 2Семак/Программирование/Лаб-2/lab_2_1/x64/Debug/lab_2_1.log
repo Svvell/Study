@@ -1,0 +1,4 @@
+﻿  lab_2_1.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\format(42): warning STL4038: The contents of <format> are available only with C++20 or later.
+C:\Users\mrlol\OneDrive\Рабочий стол\Чикчикпуки\ВУЗ\Программирование\Лаб-2\lab_2_1\lab_2_1.cpp(14,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab_2_1.vcxproj -> C:\Users\mrlol\OneDrive\Рабочий стол\Чикчикпуки\ВУЗ\Программирование\Лаб-2\lab_2_1\x64\Debug\lab_2_1.exe
