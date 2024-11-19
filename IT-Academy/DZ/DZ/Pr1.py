@@ -1,6 +1,6 @@
 import string
 # Задание 1. Welcome to Python
-# name = input('Здравствуйте, какое у Вас имя? ')
+# name: string = input('Здравствуйте, какое у Вас имя? ')
 # surname = input('О, а фамилия у Вас какая?')
 # print('Приветствую Вас,', name, surname, "! Добро пожаловать в Python. Да пребудет с Вами удача!",sep = ' ')
 
@@ -12,9 +12,9 @@ from operator import truediv
 
 # Задание 3. Форматированный вывод денежной суммы
 
-amount = float(input('Введите кол-во денег'))
-if amount > 0:
-    print(f'{amount:,.2f}')
+# amount = float(input('Введите кол-во денег'))
+# if amount > 0:
+#     print(f'{amount:,.2f}')
 
 # Попытки сделать свой алгоритм перевода в стандартный денежный формат:
 # f1 = False
@@ -69,3 +69,35 @@ if amount > 0:
 # #     print("{}.{}".format( e, amount.lstrip("0.")))
 # # else:
 # #     print("{}".format( e))
+
+x = "hel"+"lo"
+print(id(x))
+x = "hello"
+print(id(x))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
