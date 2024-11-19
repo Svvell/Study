@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cae4c084-a9de-4792-a4ae-2dad536cf7be" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../3Семак/ООП/Лабы/Test/test1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../3Семак/ООП/Лабы/Test/test1/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../3Семак/ООП/Лабы/Test/test1/test1.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../3Семак/ООП/Лабы/Test/untitled/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../3Семак/ООП/Лабы/Test/untitled/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../3Семак/ООП/Лабы/Test/untitled/untitled.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../3Семак/ООП/Лабы/Test/untitled1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../3Семак/ООП/Лабы/Test/untitled1/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../3Семак/ООП/Лабы/Test/untitled1/untitled1.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../3Семак/ООП/Лабы/Test/untitled2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../3Семак/ООП/Лабы/Test/untitled2/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../3Семак/ООП/Лабы/Test/untitled2/untitled2.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../3Семак/ООП/Лабы/Test/untitled3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../3Семак/ООП/Лабы/Test/untitled3/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../3Семак/ООП/Лабы/Test/untitled3/untitled3.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DZ/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DZ/DZ2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DZ2/.idea/DZ2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DZ2/DZ2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1Семак/Информатика/Лаб1/1лаб.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1Семак/Информатика/Лаб1/1лаб.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1Семак/Информатика/Лаб1/лаб1инф.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1Семак/Информатика/Лаб2/Я вам.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1Семак/Информатика/Лаб2/лаб2инф.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1Семак/Информатика/Лаб3/Важные события Мухамеджан Адлета приведены в таблице 1.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1Семак/Информатика/Лаб3/Важные события Мухамеджан Адлета приведены в таблице 1.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1Семак/Информатика/Лаб3/лаб3инф.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1Семак/Информатика/Лаб4/Документ Microsoft Word.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1Семак/Информатика/Лаб4/лаб4инф.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1Семак/Информатика/Лаб4/лаб4инф.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1Семак/Информатика/ПР1/ПР1.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1Семак/Информатика/ПР1/ПР1.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1Семак/Информатика/ПР2/вариант12.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1Семак/Информатика/ПР2/вариант12.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1Семак/Информатика/ПР3/ПР_3.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1Семак/Информатика/ПР3/ПР_3.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1Семак/Информатика/ПР4/ПР4.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1Семак/Информатика/ПР4/ПР4.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1Семак/Информатика/ПР6/ПР6.accdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1Семак/Информатика/ПР6/ПР6.accdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2Семак/Инженерка/Новая папка/Чертеж.cdw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3Семак/ООП/ConsoleApplication1" beforeDir="false" afterPath="$PROJECT_DIR$/../../../3Семак/ООП/ConsoleApplication1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3Семак/ТПИС/Лекции/Лекции.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../3Семак/ТПИС/Лекции/Лекции.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../DZ/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DZ/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DZ/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonProject1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../DZ/.idea/DZ1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pr1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DZ/Pr1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Инд.зад;ЛинАлг.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../История России Орлов Георгиев.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../крграфики.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2ntNCmIgHjvRgFuhY0j39HpxWUI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.DZ2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Pr1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cae4c084-a9de-4792-a4ae-2dad536cf7be" name="Changes" comment="" />
+      <created>1729788286738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729788286738</updated>
+    </task>
+    <servers />
+  </component>
+</project>
